@@ -12,4 +12,4 @@ You can see the final build preview on this link!
 
 [Preview Final Build](https://www.youtube.com/watch?v=jhsdtKx_288&ab_channel=PAKORNTHANAPRACHANON)
 
-![GameRule](https://github.com/T-Pakorn/SFML_GameProject_TheLastTank/tree/main/Document/The Last Tank [62010694].jpg)
+![GameRule](https://github.com/T-Pakorn/SFML_GameProject_TheLastTank/blob/main/Document/The%20Last%20Tank%20%5B62010694%5D.jpg)
